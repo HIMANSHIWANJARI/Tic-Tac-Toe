@@ -31,5 +31,5 @@ git clone https://github.com/HIMANSHIWANJARI/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
 ```
 
-### Open `index.html` in Your Browser and start playing! 🎉
-Happy playing! 😊
+### Open `index.html` in Your Browser and start playing!
+Happy playing!😊
