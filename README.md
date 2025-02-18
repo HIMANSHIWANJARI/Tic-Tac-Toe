@@ -17,7 +17,7 @@ Welcome to the Tic-Tac-Toe game! This is a simple yet exciting two-player game w
 - **CSS:** Styling for a visually appealing design
 - **JavaScript:** Game logic using Factory Functions and the Module Pattern
 
-## 🚀 Live Demo
+##  Live Demo
 
 Check out the live demo of this Tic-Tac-Toe game [here](https://himanshiwanjari.github.io/Tic-Tac-Toe/).
 
@@ -32,7 +32,4 @@ cd Tic-Tac-Toe
 ```
 
 ### Open `index.html` in Your Browser and start playing! 🎉
-
----
 Happy playing! 😊
-```` ▋
